@@ -20,6 +20,7 @@ To run the scripts in this project, you need to have the following Python librar
 
 
 ![Figure_1](https://github.com/pejmantheory/SciData-Visuals/assets/81389644/e75033bf-00d5-4912-8c3d-0716406c5acc)
+
 `python3 3d_surface_plot.py`
 
 ![Figure_2](https://github.com/pejmantheory/SciData-Visuals/assets/81389644/385d9938-632e-4c2a-883a-371e5fe252b7)
