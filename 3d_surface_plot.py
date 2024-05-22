@@ -20,4 +20,3 @@ ax.set_zlabel('Z axis')
 ax.set_title('3D Surface Plot')
 
 plt.show()
-
